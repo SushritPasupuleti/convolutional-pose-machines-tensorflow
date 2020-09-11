@@ -82,7 +82,7 @@ create a venv
 ```
 python -m venv somevenv
 
-pip install tensorflow==1.14.0
+pip install tensorflow==1.15.0
 pip install opencv-python
 pip install imageio
 ```
