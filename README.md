@@ -85,4 +85,5 @@ python -m venv somevenv
 pip install tensorflow==1.15.0
 pip install opencv-python
 pip install imageio
+pip install imageio-ffmpeg
 ```
