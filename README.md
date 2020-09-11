@@ -74,3 +74,15 @@ See **run_training_distillation.py** for more details.
 ## License
 
 This project is licensed under the Apache 2.0 License.
+
+## Setup
+
+create a venv
+
+```
+python -m venv somevenv
+
+pip install tensorflow==1.14.0
+pip install opencv-python
+pip install imageio
+```
