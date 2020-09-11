@@ -5,3 +5,4 @@ test_imgs/*
 */__pycache__
 */*/__pycache__
 models/cpm_body.pkl
+somevenv/
